@@ -21,7 +21,7 @@ Tecnologias Utilizadas
 - DAX
 
 Insights Estratégicos
-Canais pagos apresentaram maior taxa de rejeição;
-Campanhas de referral demonstraram melhor conversão;
-Usuários que visitam mais páginas tendem a converter mais;
-Tráfego direto possui maior volume de acessos.
+- Canais pagos apresentaram maior taxa de rejeição;
+- Campanhas de referral demonstraram melhor conversão;
+- Usuários que visitam mais páginas tendem a converter mais;
+- Tráfego direto possui maior volume de acessos.
