@@ -51,41 +51,36 @@ KPI	Resultado
 
 📊 Análises Realizadas
 🔹 Taxa de Conversão por Dia
-
-- Análise temporal da conversão ao longo do período monitorado.
-
+ Análise temporal da conversão ao longo do período monitorado.
+ 
 🔹 Taxa de Rejeição por Canal
-
 Comparação entre canais:
-
 CPC
 Referral
 Organic Search
 Paid Search
 Social
 Direct
+
 🔹 Distribuição por Origem
-
 Análise do volume de acessos por origem de tráfego:
+*Direct
+*Facebook
+*Google
+*Google Search
+*Twitter
 
-Direct
-Facebook
-Google
-Google Search
-Twitter
 🔹 Páginas Visualizadas x Conversão
-
 Correlação entre engajamento do usuário e taxa de conversão.
 
 🔹 Ranking de Campanhas
-
 Tabela analítica contendo:
+*Campanha
+*Meio
+*Páginas Visualizadas
+*Taxa de Rejeição
+*Taxa de Conversão
 
-Campanha
-Meio
-Páginas Visualizadas
-Taxa de Rejeição
-Taxa de Conversão
 🧠 Insights Estratégicos
 
 📌 Canais pagos apresentaram maior taxa de rejeição
