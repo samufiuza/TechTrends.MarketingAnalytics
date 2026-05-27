@@ -30,7 +30,8 @@ O principal objetivo é transformar dados de campanhas, tráfego e comportamento
 -Análise de tendências
 -Apoio à tomada de decisão
 
-- 🛠️ Tecnologias Utilizadas
+
+🛠️ Tecnologias Utilizadas
 
 📌 Power BI
 - Ferramenta principal para construção do dashboard e visualizações interativas.
@@ -50,16 +51,17 @@ O principal objetivo é transformar dados de campanhas, tráfego e comportamento
 📌 Google Analytics (Simulado)
 - Fonte de dados utilizada para análise de tráfego e campanhas.
 
-- 🧠 Insights Estratégicos
+  
+  🧠 Insights Estratégicos
 
-📌 Conversão
+→ Conversão
 - Campanhas de referral apresentaram melhor taxa de conversão.
 
-📌 Rejeição
+→ Rejeição
 - Canais pagos demonstraram maior taxa de rejeição.
 
-📌 Engajamento
+→ Engajamento
 - Usuários que acessam mais páginas possuem maior tendência de conversão.
 
-📌 Tráfego
+→ Tráfego
 - O tráfego direto apresentou maior volume de acessos.
