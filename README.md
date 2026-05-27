@@ -1,5 +1,5 @@
 🚀 TECH TRENDS | Marketing Analytics Dashboard
-<p align="center"> <img width="900" src="./images/Home - Background.jpg"> </p> <p align="center"> <img src="https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"> <img src="https://img.shields.io/badge/SQL-Database-336791?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/Excel-Data%20Analysis-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"> <img src="https://img.shields.io/badge/DAX-Business%20Intelligence-6A1B9A?style=for-the-badge"> </p>
+<p align="center"> <img width="900" src="Home - Background.jpg"> </p> <p align="center"> <img src="https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"> <img src="https://img.shields.io/badge/SQL-Database-336791?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/Excel-Data%20Analysis-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"> <img src="https://img.shields.io/badge/DAX-Business%20Intelligence-6A1B9A?style=for-the-badge"> </p>
 📊 Sobre o Projeto
 
 O TECH TRENDS é um projeto de análise de dados voltado para marketing digital, desenvolvido utilizando Power BI para criação de dashboards interativos, modernos e estratégicos.
