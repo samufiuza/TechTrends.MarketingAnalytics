@@ -21,34 +21,38 @@ O principal objetivo é transformar dados de campanhas, tráfego e comportamento
 ✅ Gerar insights estratégicos através de visualizações interativas
 
 🛠️ Tecnologias Utilizadas
-Tecnologia	Função
-Power BI	Criação de dashboards
-SQL	Consultas e manipulação de dados
-Excel	Base de dados e apoio analítico
-Power Query	ETL e tratamento de dados
-DAX	Métricas e cálculos analíticos
-Google Analytics (Simulado)	Fonte de dados de marketing
+
+Tecnologia | Função
+- Power BI - Criação de dashboards
+- SQL - Consultas e manipulação de dados
+- Excel - Base de dados e apoio analítico
+- Power Query	- ETL e tratamento de dados
+- DAX	- Métricas e cálculos analíticos
+- Google Analytics (Simulado)	- Fonte de dados de marketing
+
 📈 Dashboard Analytics
 
 O dashboard foi desenvolvido com foco em:
 
-Visual moderno em tema dark;
-Navegação intuitiva;
-KPIs estratégicos;
-Performance de campanhas;
-Conversão de usuários;
-Análise de canais de tráfego.
+- Visual moderno em tema dark;
+- Navegação intuitiva;
+- KPIs estratégicos;
+- Performance de campanhas;
+- Conversão de usuários;
+- Análise de canais de tráfego.
+
 📌 Principais KPIs
 KPI	Resultado
-💳 Transações	7,5 Mil
-💰 Receita	R$ 1,7 Mi
-📈 Taxa de Conversão	10,0%
-📉 Taxa de Rejeição	49,5%
-⏱️ Tempo Médio na Página	2h 36min
+- 💳 Transações	7,5 Mil
+- 💰 Receita	R$ 1,7 Mi
+- 📈 Taxa de Conversão	10,0%
+- 📉 Taxa de Rejeição	49,5%
+- ⏱️ Tempo Médio na Página	2h 36min
+
 📊 Análises Realizadas
 🔹 Taxa de Conversão por Dia
 
-Análise temporal da conversão ao longo do período monitorado.
+- Análise temporal da conversão ao longo do período monitorado.
 
 🔹 Taxa de Rejeição por Canal
 
