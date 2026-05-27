@@ -9,26 +9,26 @@ O principal objetivo é transformar dados de campanhas, tráfego e comportamento
 - 🎯 Objetivos do Projeto
 
 ✅ Monitoramento de KPIs
--Taxa de conversão
--Receita
--Engajamento
--Rejeição
--Tempo médio na página
+- Taxa de conversão
+- Receita
+- Engajamento
+- Rejeição
+- Tempo médio na página
 
 ✅ Performance de Campanhas
--Avaliação de campanhas
--Comparação entre canais
--Identificação de campanhas mais eficientes
+- Avaliação de campanhas
+- Comparação entre canais
+- Identificação de campanhas mais eficientes
 
 ✅ Análise de Usuários
--Comportamento de navegação
--Páginas visualizadas
--Conversão por interação
+- Comportamento de navegação
+- Páginas visualizadas
+- Conversão por interação
 
 ✅ Insights Estratégicos
--Identificação de oportunidades
--Análise de tendências
--Apoio à tomada de decisão
+- Identificação de oportunidades
+- Análise de tendências
+- Apoio à tomada de decisão
 
 
 🛠️ Tecnologias Utilizadas
