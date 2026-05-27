@@ -1,4 +1,4 @@
-📊 Tech TrendsMarketing Analytics
+📊 TECH TRENDS MARKETING ANALYTICS
  
 O TECH TRENDS é um projeto de análise de dados focado em métricas de marketing digital e performance de campanhas, desenvolvido utilizando Power BI para criação de dashboards interativos e estratégicos.
 
